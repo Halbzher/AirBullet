@@ -14,7 +14,7 @@ IMPORTANT! Performing (D)DoS attacks or credential stuffing on sites you do not 
 This software is licensed under the MIT License.
 
 
-<img src="https://i.ibb.co/p32L4Sc/Screenshot-2023-03-19-060250.jpg" alt="Runner" data-canonical-src="https://i.ibb.co/N3CQYDn/Screenshot-2023-03-09-052238.jpg" style="max-width: 40%;">
+<img src="https://i.ibb.co/p32L4Sc/Screenshot-2023-03-19-060250.jpg" alt="Runner" data-canonical-src="https://i.ibb.co/p32L4Sc/Screenshot-2023-03-19-060250.jpg" style="max-width: 40%;">
 
 # How to build
 
