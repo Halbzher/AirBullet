@@ -8,8 +8,6 @@ AirBullet Ver 1.1.0 is a webtesting suite that allows to perform requests toward
 IMPORTANT! Performing (D)DoS attacks or credential stuffing on sites you do not own (or you do not have permission to test) is illegal! The developer will not be held responsible for improper use of this software.
 
 
-<img src="https://i.ibb.co/phznm6b/Screenshot-2023-03-09-051545.jpg" alt="Runner" data-canonical-src="https://i.ibb.co/phznm6b/Screenshot-2023-03-09-051545.jpg" style="max-width: 40%;">
-
 # License
 This software is licensed under the MIT License.
 
